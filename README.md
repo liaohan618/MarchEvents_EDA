@@ -1,5 +1,8 @@
 # Table of Contents
 
+1. [Abstract](#abstract)
+2. [Dataset](#dataset)
+
 # Abstract
 This is one of the main projects I worked on with my supervisor Alex during my internship at Yukka Lab in Berlin, Germany in the Summer of 2024. Yukka Lab extracts news articles everyday for the companies of interested. For each news article extracted,their model is able to detect the specific 'events' mentioned or implied in this article that are from the list of events we are interested at. In this project, I worked on a deep exploratory data analysis on all the events extracted from all companies throughout March 2024.
 
