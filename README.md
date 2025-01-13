@@ -16,7 +16,7 @@ This jupyter notebook explores all the variables from this table to enhance a be
 2. Distributions of Factuality and Temporality
 3. Detected Participant
 - Participant rate for each event
-  ![photo](Distribution of Participant Rates by Event.png)
+  ![photo]("Distribution of Participant Rates by Event.png")
 4. Distribution of Language
 5. Correlations between events
   ![photo](correlation.png)
