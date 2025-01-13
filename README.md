@@ -12,14 +12,14 @@ This jupyter notebook explores all the variables from this table to enhance a be
 1. General distributions of events
 - Total of 148 unique events
 - 1st Percentile Events Frequency
-  [event_freq.png]
+  ![photo](event_freq.png)
 2. Distributions of Factuality and Temporality
 3. Detected Participant
 - Participant rate for each event
-  [Distribution of Participant Rates by Event.png]
+  ![photo](Distribution of Participant Rates by Event.png)
 4. Distribution of Language
 5. Correlations between events
-  [correlation.png]
+  ![photo](correlation.png)
 - distribution : most events pairs are less correlated (have correlation < 0.2)
 - We will focus on events pairs that have correlation > 0.5
 
